@@ -1,41 +1,7 @@
 # AlasTV2
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/NZcpX5s/lawak.jpg",Jackpot Bik e" Bersama Yamaha
 
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/CWbwJBv/alas.jpg",FIANSYAH - CUKUP MESUI
-https://www.dropbox.com/scl/fi/y9f9ebcw25ucq82t9qfi6/Lagu-Alas-Terbaru-2023-FIANSYAH-CUKUP-MESUI-Official-Music-Video-Original.mp4?rlkey=vuisjs1243taj9fbtvp3it0x1&dl=1
 
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/6vmMTWf/AMI.jpg",Ami Rahmi - Peusan Rot Lumpoe
-https://www.dropbox.com/scl/fi/8j7d1881a17hae4fkc6cv/Ami-Rahmi-Peusan-Rot-Lumpoe-Official-Music-Video.mp4?rlkey=3z81yfs70jliqn2xjg3rv2i1u&dl=1
-
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/Hpp1md2/SP.jpg",SOPAN SOPIAN - AKU MUNDUKH 
-https://www.dropbox.com/scl/fi/dlb21rdbsncaj9eiptgt9/AKU-MUNDUKH-SOPAN-SOPIAN-OFFICIAL-MUSIK-VIDEO.mp4?rlkey=6y6hefybo0y9t5yd2oox91ywj&dl=1
-
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/J5wdMTr/ASR.jpg",ASRI TJ - 4 TAHUN LEBIH
-https://www.dropbox.com/scl/fi/wt7wh04ox1jdly6gz0o8h/4-TAHUN-LEBIH-ASRI-TJ-Official-Music-Video-2020.mp4?rlkey=vh6xe3bptkw9mmwegrzb4546g&dl=1
-
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/NNsKngT/GA1.jpg",Lisma S - Gere Musara
-https://www.dropbox.com/scl/fi/1v9f7jbaxhcomkfhpj0nj/Lagu-Gayo-Gere-Musara-Lisma-S-Official-Music-Video.mp4?rlkey=a6pr81dl2zm3uy1y55upugmlq&dl=1
-
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/CMmxZnS/GA2.jpg",GUMARA - PELAKOR
-https://www.dropbox.com/scl/fi/h1ti8l4jrg0ayrpc9nckc/LAGU-GAYO-GUMARA-2019-PELAKOR-FULL-HD-VIDEO-QUALITY.mp4?rlkey=na90wg4i8ievy2pt2cfhwgj4z&dl=1
-
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/pfdSMWD/AYU.jpg",GUMARA FEAT AYU KARTIKA - DENEM
-https://www.dropbox.com/scl/fi/51vztrod8qcdupftybsxx/GUMARA-FEAT-AYU-KARTIKA-DENEM-FULL-HD-VIDEO-QUALITY.mp4?rlkey=0n8sbit3tc9wxnytq7r563223&dl=1
-
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/K5hYtNJ/KA.jpg",Narta-Siregar-Pujaan-Hati
-https://www.dropbox.com/scl/fi/j1z9sdgsnquy817nj9wu8/Narta-Siregar-Pujaan-Hati-Lagu-Karo-Terbaru-2023-Official-Music-Video.mp4?rlkey=uxywsa7s1sytpg61vbducdwdf&dl=1
-
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/yBTzWk2/KA1.jpg",INTAN BR GINTING-KAM NGENCA
-https://www.dropbox.com/scl/fi/d2pihf2ff2q1kitu18dxz/LAGU-KARO-TERBARU-2021-INTAN-BR-GINTING-KAM-NGENCA-20M-Penonton.mp4?rlkey=23to28ow6025mcjgc9rypra45&dl=1
-
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/fX7JMxY/KA2.jpg",ICHE BR GINTING - SAYANG KEL AKU
-https://www.dropbox.com/scl/fi/lncpa1n9qj0ianis0wqj8/LAGI-VIRAL-SAYANG-KEL-AKU-ICHE-br-GINTING.mp4?rlkey=4h3xedc6dtekzdii5ge28ysb2&dl=1
-
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/NZcpX5s/lawak.jpg",GUMARA FEAT AY
-
-#EXTINF:-1 group-title="👉HIBURAN FULL HD👈" tvg-logo="https://i.ibb.co/GP5QHfM/dj.jpg",🔴 DJ BIDDY NONSTOP BreakBeat
-  
-#EXTINF:-1 group-title="👉LIVE SEKARANG👈" tvg-logo="https://i.ibb.co/KLqMXR1/MEGA.jpg",VOLLY MEGAWATI
+EXTINF:-1 group-title="👉LIVE SEKARANG👈" tvg-logo="https://i.ibb.co/KLqMXR1/MEGA.jpg",VOLLY MEGAWATI
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9tm4R4y/chi.jpg" group-title="👉LIVE SEKARANG👈",BADMINTON BWF Syed Modi India 2023
 
@@ -131,13 +97,13 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 -----------------------------LIVE BADMINTON---------------------------------------------------------------------------
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/nbkxdzn/im2.jpg" group-title="🏆LIVE BADMINTON🏆"​, COURT 1
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/nbkxdzn/im2.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 2
-      
-#EXTINF:0 tvg-logo="https://i.ibb.co/nbkxdzn/im2.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 3
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/nbkxdzn/im2.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 4
+#EXTINF:0 tvg-logo="https://i.ibb.co/rxrkyw7/bat.jpg" group-title="🏆LIVE BADMINTON🏆"​, COURT 1
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6592 
+#EXTINF:0 tvg-logo="https://i.ibb.co/rxrkyw7/bat.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 2
+https://adem-tv.000webhostapp.com/buluterbang/court2.m3u8?court2=stream       
+#EXTINF:0 tvg-logo="https://i.ibb.co/rxrkyw7/bat.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 3
+https://adem-tv.000webhostapp.com/buluterbang/court3.m3u8?court3=stream      
+#EXTINF:0 tvg-logo="https://i.ibb.co/rxrkyw7/bat.jpg" group-title="🏆LIVE BADMINTON🏆", COURT 4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="🏆LIVE BADMINTON🏆",SPORTSTAR 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -179,42 +145,6 @@ http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31764/FHD/skysportnba/master
 
 ------------------------------------------PIALA ASIA--------------------------------------------------------------
 
-#EXTINF:0 tvg-id="SoccerChannel.Id" tvg-logo="https://i.ibb.co/Hd353FC/asia-cup.jpg" group-title="🏆PIALA ASIA🏆",Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="🏆PIALA ASIA🏆",AFC ASIAN CUP 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
-https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
- 
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="🏆PIALA ASIA🏆",PIALA ASIA 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e88098727fdd4373b69e823492ae620a:b8e5bda4102c9cca4dfa443aaaa337f0
-https://mwmpos01.akamaized.net/out/v1/a9e54b70137743d3b94f57272486d981/manifest.mpd
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="🏆PIALA ASIA🏆",AFC ASIAN CUP 3
-https://link.zozotv.xyz:443/rozila969/abc12345/791
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hidupkustereo/logotv/main/pialaasia.png" group-title="🏆PIALA ASIA🏆",SSC SPORT
-https://af.ayassport.ir/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="🏆PIALA ASIA🏆",AFC ASIAN CUP 1
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1422120&extension=ts&play_token=kRgSkpTZuH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN_lwXcV-Qt4-s4SeNW-1nS9n0nE6Z-2md5w&usqp=CAU" group-title="🏆PIALA ASIA🏆",AFC ASIAN CUP 2
-http://185.243.7.56:80/play/live.php?mac=00:1A:79:C0:12:FB&stream=1422124&extension=ts&play_token=4oQLjHkfLN
- 
-#EXTINF:-1 tvg-logo="https://ott.the-afc.com/image/1920x1080/1cca4085-eb30-415a-9b34-01e128fd9e51.jpg?v=20230510155921" group-title="🏆PIALA ASIA🏆", AFC Asian Cup 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
- 
- #EXTINF:-1 tvg-logo="https://ott.the-afc.com/image/1920x1080/1cca4085-eb30-415a-9b34-01e128fd9e51.jpg?v=20230510155921" group-title="🏆PIALA ASIA🏆",  AFC Asian Cup 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
 
 
 ========================================LIGA INDONESIA=========================================
